@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Models\moto;
-use GuzzleHttp\Psr7\Response as Psr7Response;
 use Illuminate\Http\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Illuminate\Support\Facades\Validator;
